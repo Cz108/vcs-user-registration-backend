@@ -1,0 +1,6 @@
+fastapi-backend/config/config.json
+fastapi-backend/config/sa-firebase-key.json
+.vcs-user-registration-backend/
+fastapi-backend/__pycache__/*
+*.pyc
+
